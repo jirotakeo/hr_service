@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}Настройки{% endblock %}
+{% block content %}
+
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <h6 class="my-3">Настройки</h6>
+        <form method="POST" action="">{% csrf_token %}
+            <div class="form-group">
+                {{ form.as_p }}
+            </div>
+            <button type="submit" class="btn btn-primary">Сохранить</button>
+        </form>
+        <form method="POST" action="{% url 'accounts:delete' %}">{% csrf_token %}
+            <button type="submit" class="btn btn-danger my-3">Удалить</button>
+        </form>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <h6 class="my-3">Нет подходящих вариантов? заполни форму! </h6>
+        <p>админу делать больше нефиг... добавит в настройках нужные тебе параметры поиска</p>
+
+        <p>
+          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+            Показать форму
+          </button>
+        </p>
+        <div class="collapse" id="collapseExample">
+          <div class="card card-body">
+            <form method="POST" action="{% url 'accounts:contact' %}">{% csrf_token %}
+                    <div class="form-group">
+                        {{ contact_form.as_p }}
+                    </div>
+                    <button type="submit" class="btn btn-primary">Сохранить</button>
+                </form>
+          </div>
+        </div>
+
+
+    </div>
+</div>
+
+{% endblock %}

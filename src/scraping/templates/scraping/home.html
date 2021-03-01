@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="col">
+        <h2 class="text-center">Сервис по сбору и рассылке вакансий</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <h6 class="my-3">Для просмотра вакансий заполните форму по одному из полей</h6>
+        <form method="GET" action="{% url 'list' %}">
+            <div class="form-group">
+                {{ form.as_p }}
+            </div>
+            <button type="submit" class="btn btn-primary">Найти</button>
+        </form>
+    </div>
+</div>
+{% endblock %}
