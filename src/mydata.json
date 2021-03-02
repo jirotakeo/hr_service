@@ -1,0 +1,2923 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2021-02-03T08:04:47.111Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "1",
+    "object_repr": "Киев",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2021-02-03T08:05:01.897Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2021-02-03T08:05:40.921Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "jirotakeo@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Language\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2021-02-03T08:05:53.004Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "jirotakeo@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"City\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2021-02-03T08:07:51.779Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "jiro@ya.ru",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2021-02-03T08:07:59.095Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "jiro@ya.ru",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2021-02-03T08:08:18.030Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "jiro@ya.ru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Language\", \"City\", \"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2021-02-03T08:08:33.655Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "jirotakeo@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2021-02-03T08:09:23.497Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "jiro@ya.ru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2021-02-03T08:14:02.199Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Url object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2021-02-06T11:56:20.754Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "jirotakeo@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2021-02-06T11:59:39.425Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "jiro@ya.ru",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2021-02-06T11:59:52.291Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "bum@mail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2021-02-06T12:46:26.374Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "jirotakeo@yandex.ru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email address\", \"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2021-02-06T13:02:19.931Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "jirotakeo@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2021-02-06T13:07:14.973Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "jirotakeo@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Send email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2021-02-16T15:09:43.323Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Error object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2021-02-16T15:25:55.706Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "2021-02-16",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Data\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2021-02-16T15:25:59.742Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "2021-02-16",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Data\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2021-02-26T23:03:43.202Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "2021-02-16",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Data\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2021-02-26T23:43:22.269Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "2021-02-16",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Data\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2021-02-26T23:46:17.194Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "2021-02-26",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Data\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add Город",
+    "content_type": 6,
+    "codename": "add_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change Город",
+    "content_type": 6,
+    "codename": "change_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete Город",
+    "content_type": 6,
+    "codename": "delete_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view Город",
+    "content_type": 6,
+    "codename": "view_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add Язык программирования",
+    "content_type": 7,
+    "codename": "add_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change Язык программирования",
+    "content_type": 7,
+    "codename": "change_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete Язык программирования",
+    "content_type": 7,
+    "codename": "delete_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view Язык программирования",
+    "content_type": 7,
+    "codename": "view_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add Вакансию",
+    "content_type": 8,
+    "codename": "add_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change Вакансию",
+    "content_type": 8,
+    "codename": "change_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete Вакансию",
+    "content_type": 8,
+    "codename": "delete_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view Вакансию",
+    "content_type": 8,
+    "codename": "view_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add error",
+    "content_type": 9,
+    "codename": "add_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change error",
+    "content_type": 9,
+    "codename": "change_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete error",
+    "content_type": 9,
+    "codename": "delete_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view error",
+    "content_type": 9,
+    "codename": "view_error"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add url",
+    "content_type": 10,
+    "codename": "add_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change url",
+    "content_type": 10,
+    "codename": "change_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete url",
+    "content_type": 10,
+    "codename": "delete_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view url",
+    "content_type": 10,
+    "codename": "view_url"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add Пользователя",
+    "content_type": 11,
+    "codename": "add_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change Пользователя",
+    "content_type": 11,
+    "codename": "change_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete Пользователя",
+    "content_type": 11,
+    "codename": "delete_myuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view Пользователя",
+    "content_type": 11,
+    "codename": "view_myuser"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "scraping",
+    "model": "city"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "scraping",
+    "model": "language"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "scraping",
+    "model": "vacancy"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "scraping",
+    "model": "error"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "scraping",
+    "model": "url"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "accounts",
+    "model": "myuser"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "prn6wx03klrl2h8043zd51e4lnljple7",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAeY1L934DGWCQqoGktCvjv2uTLnR7zzn3xQJuaw3boCXMmZ2ZZKffLWJ6UNtBvmO7dZ56W5c58l3hBx382jM9L4f7d1Bx1G-ti8lOKrJg1ITSSEjek0DrlUpA2kIU5ECX6KORxaXshM8arEYBEwJ7fwDGkjcw:1l8MC9:GkjOqS0Muv2W0PB5c98YCQy75zi6BZDVDFI285Hli8g",
+    "expire_date": "2021-02-20T11:56:09.928Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "sv15tkb4f2n09vmnvoz59wnt3ey0vahn",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAeY1L934DGWCQqoGktCvjv2uTLnR7zzn3xQJuaw3boCXMmZ2ZZKffLWJ6UNtBvmO7dZ56W5c58l3hBx382jM9L4f7d1Bx1G-ti8lOKrJg1ITSSEjek0DrlUpA2kIU5ECX6KORxaXshM8arEYBEwJ7fwDGkjcw:1lGjt6:gC6uDEVEBe3Pd-sqcz0oOtajv2H9djeK94bhnxSVVAM",
+    "expire_date": "2021-03-15T14:51:08.592Z"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 1,
+  "fields": {
+    "name": "Киев",
+    "slug": "kiev"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 1,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4182008/",
+    "title": "\nJunior Technical Support (Python)\n",
+    "company": "Intel 471",
+    "description": "\n            Полная занятость, удаленная работа, готовы взять студента. Высшее образование.\n                            Who Intel 471 are: The mission of Intel 471 is to protect your organization, your products, your assets…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 2,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4068388/",
+    "title": "\nJunior Python developer (Intern)\n",
+    "company": "IPnet, интернет-провайдер",
+    "description": "\n            Полная занятость, готовы взять студента.\n                            Компания IPNET — это крупнейший оператор и технологический лидер на рынке телекоммуникаций. Мы предоставляем…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 3,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4008938/",
+    "title": "\nStrong middle/Senior Back-end developer (Python, Django)\n",
+    "company": "Meest China",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет. Высшее образование.\n                            В международную почтово-логистическую компанию«Meest China», которая специализируется на доставке e-commerce…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 4,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4188776/",
+    "title": "\nSenior Python Developer\n",
+    "company": "Mobilunity",
+    "description": "\n            Полная занятость. Опыт работы от 5 лет. Высшее образование.\n                            Mobilunity is a provider of dedicated development teams aiming to bring European corporate culture to the…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 5,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4180387/",
+    "title": "\nFull-stack Middle Python/Django developer\n",
+    "company": ":DTeam",
+    "description": "\n            Полная занятость, удаленная работа. Опыт работы от 1 года.\n                            В команду веб-разработчиков :Dteam ищем Full-stack Middle Python/Django developer.  Что знает и умеет…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 6,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3871371/",
+    "title": "\nPython Developer, Mentor\n",
+    "company": "FoxmindEd",
+    "description": "\n            Удаленная работа. Опыт работы от 2 лет.\n                            Шукаємо крутих менторів для наших крутих студентівПам’ятаєш себе на старті кар'єри? Багатьом з нас не вистачало…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 7,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4160649/",
+    "title": "\nMiddle Python Engineer\n",
+    "company": "Intel 471",
+    "description": "\n            Полная занятость, удаленная работа. Опыт работы от 2 лет. Высшее образование.\n                            Who Intel 471 are: The mission of Intel 471 is to protect your organization, your products, your assets…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 8,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4160647/",
+    "title": "\nSenior Python Engineer\n",
+    "company": "Intel 471",
+    "description": "\n            Полная занятость, удаленная работа. Опыт работы от 5 лет. Высшее образование.\n                            Who Intel 471 are: The mission of Intel 471 is to protect your organization, your products, your assets…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 9,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3984817/",
+    "title": "\nPython developer\n",
+    "company": "4bill.io",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет. Высшее образование.\n                            Группа компаний, оперирующая в сфере e-commerce, транзакционного бизнеса и финансовых сервисов приглашает…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 10,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4197763/",
+    "title": "\nSenior Python/Django Developer\n",
+    "company": "Skelia Ukraine",
+    "description": "\n            Полная занятость. Опыт работы от 5 лет.\n                            We have a tasty opening for a skilled expert! Our client is a Los Angeles based telecommunications service…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 11,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3922677/",
+    "title": "\nPython-разработчик\n",
+    "company": "Homfi",
+    "description": "\n            Полная занятость. Опыт работы от 1 года.\n                            Python разработчик  Необходимые навыки:    ​1+ года опыта в разработке на python;   Опыт работы с БД;…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 12,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4063085/",
+    "title": "\nMiddle Python developer\n",
+    "company": "Укренерго, НЕК",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет. Высшее образование.\n                            Національна енергетична компанія «Укренерго» запрошує прийняти участь в конкурсі на заміщення вакантної…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 13,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4149668/",
+    "title": "\nAdvanced Python Engineer\n",
+    "company": "Innovecs",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет. Высшее образование.\n                            OPPORTUNITY: We are looking for brilliant people to join us, those who like to break boundaries, overcome…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 14,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4187854/",
+    "title": "\nPython/Data Engineer\n",
+    "company": "Codeminders",
+    "description": "\n            Полная занятость, удаленная работа. Опыт работы от 5 лет. Высшее образование.\n                            We are currently seeking a Python / Data Engineer to work in project that design cutting edge AI decision…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 15,
+  "fields": {
+    "url": "https://rabota.ua/company958/vacancy8210339",
+    "title": "  Big Data Engineer\n ",
+    "company": "ДТЕК, ТОВ, Енергетична компанія",
+    "description": " Необходимые навыки- Опыт работы в роли инженера данных не менее лет- Практические навыки проектирования и реализации систем сбора и обработки данных- Понимание...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 16,
+  "fields": {
+    "url": "https://rabota.ua/company133752/vacancy8170772",
+    "title": "  Python Engineer\n ",
+    "company": "Wargaming",
+    "description": " World of Tanks Kyiv s looking for a Python Engineer to join the Team on a full-time basis. As an Engineer you will be focusing on the development of new...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 17,
+  "fields": {
+    "url": "https://rabota.ua/company2991904/vacancy8330444",
+    "title": "  Преподаватель по детским IT - онлайн курсам (Scratch, Minecraft, Pyton, ...\n ",
+    "company": "Тройно О.Г., ФОП",
+    "description": " Кто мы:Мы готовим новые направления в обучении детей. Возраст 7-12 лет.Планируем такие курсы:Scratch, Kodu, Constract2, Tilda, Canva, Minecraft, Unity,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 18,
+  "fields": {
+    "url": "https://rabota.ua/company3338870/vacancy8352390",
+    "title": "  Data Analyst (Product Analyst)\n ",
+    "company": "Uklon",
+    "description": " Uklon - провідний український райдшеринг-сервіс. Як продуктова IT компанія ми розробляємо та підтримуємо одну з найбільших інфраструктур на ринку країни,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 19,
+  "fields": {
+    "url": "https://rabota.ua/company171327/vacancy8067065",
+    "title": "  Full Stack Web Developer (Python)\n ",
+    "company": "Developex",
+    "description": " Looking for a strong full stack web developer (Python, ReactJS). Required proficiency in complex websites and web services development. Hands on experience...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 20,
+  "fields": {
+    "url": "https://rabota.ua/company1234756/vacancy8185879",
+    "title": "  Инженер Linux\n ",
+    "company": "GIGACLOUD",
+    "description": " GigaCloud - команда «заряженных» профи, для которых возможно все. Мы работаем на одном из самых перспективных направлений IT-рынка - рынке облачных сервисов....\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 21,
+  "fields": {
+    "url": "https://rabota.ua/company3799787/vacancy8340858",
+    "title": "  Data scientist\n ",
+    "company": "MyCredit",
+    "description": " MyCredit — пространство с огромной душой и приятной атмосферой. Мы продуктовая компания, лидер рынка микрокредитования с 4-летним стажем! Входим в Топ-3...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 22,
+  "fields": {
+    "url": "https://rabota.ua/company1666676/vacancy7726037",
+    "title": "  Junior python developer (Intern)\n ",
+    "company": "IPNET™",
+    "description": " Компания IPNET - это крупнейший оператор и технологический лидер на рынке телекоммуникаций. Мы предоставляем услуги доступа к Интернету и цифрового телевидения...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 23,
+  "fields": {
+    "url": "https://rabota.ua/company5439187/vacancy8127195",
+    "title": "  Back-end developer (Python/Django)\n ",
+    "company": "Meest China",
+    "description": " В международную почтово-логистическую компанию«Meest China», которая специализируется на доставке e-commerce посылок из Китая в Украину и организации полного...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 24,
+  "fields": {
+    "url": "https://rabota.ua/company7432434/vacancy8351692",
+    "title": "  Software Engineer for the tools group (C++, Python)\n ",
+    "company": "NVIDIA",
+    "description": " NVIDIA is searching for a highly motivated, excellent Software Engineer to join the software tools group. You will develop tools that enable developers...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 25,
+  "fields": {
+    "url": "https://rabota.ua/company1590638/vacancy7805032",
+    "title": "  Data scientist\n ",
+    "company": "EvoPlay",
+    "description": " Обязанности: Сбор, обработка и предварительный анализ данных. Формулирование и проверка статистических гипотез, построение моделей, как на основе классических...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 26,
+  "fields": {
+    "url": "https://rabota.ua/company193305/vacancy8207436",
+    "title": "  RPA Software Engineer\n ",
+    "company": "Zoral",
+    "description": " Zoral, a leading provider of research and development to the software industry, is searching for an experienced Robotic Process Automation Engineer to...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 27,
+  "fields": {
+    "url": "https://rabota.ua/company9846162/vacancy8351381",
+    "title": "  Middle/Senior Python Developer\n ",
+    "company": "21 Creative Agency",
+    "description": " We are an actively developing company and now we are looking for a Senior Python Developer.Our domain is Gambling.Our perfect candidate has leadership...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 28,
+  "fields": {
+    "url": "https://rabota.ua/company7432434/vacancy8317569",
+    "title": "  Performance Engineer (Python)\n ",
+    "company": "NVIDIA",
+    "description": " Do you love working with sophisticated systems, having system level overview from architecture level, till deployment and clearly share your ideas with...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 29,
+  "fields": {
+    "url": "https://rabota.ua/company2487496/vacancy8239303",
+    "title": "  Data Analyst\n ",
+    "company": "OLX Украина ",
+    "description": " In OLX we are looking for a curious and passionate data driven person, who is at ease with analyzing large volumes of data and transforming it into smart...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 30,
+  "fields": {
+    "url": "https://rabota.ua/company5267515/vacancy8360908",
+    "title": "  Machine Learning Engineer\n ",
+    "company": "FLOW",
+    "description": " CompanyFLOW is a one-stop, digital credit management company with the mission to promote ethical and responsible collection in Asia, through customer-centric...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 31,
+  "fields": {
+    "url": "https://rabota.ua/company203681/vacancy8191839",
+    "title": "  Data Scientist\n ",
+    "company": "ПриватБанк",
+    "description": " ПриватБанк є найбільшим банком України та одним з найбільш інноваційних банків світу. Займає лідуючі позиції за всіма фінансовими показниками в галузі...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 32,
+  "fields": {
+    "url": "https://rabota.ua/company2972039/vacancy7454062",
+    "title": "  Преподаватель Python\n ",
+    "company": "Шаг, Компьютерная Академия",
+    "description": "В Международной Компьютерной Академии ШАГ, крупнейшем учебном заведении с 105 филиалами в 22 странах мира и самыми современными программами компьютерного...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 33,
+  "fields": {
+    "url": "https://rabota.ua/company8055058/vacancy7971832",
+    "title": "  Cloud Engineer (Big Data/Data Lake)\n ",
+    "company": "Raiffeisen Bank International",
+    "description": " We are building RBI?s next generation data lake as the back-bone for data science and advanced analytics within RBI group across Europe.As Cloud Engineer...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 34,
+  "fields": {
+    "url": "https://rabota.ua/company1765109/vacancy8361067",
+    "title": "  Senior Python Developer\n ",
+    "company": "Mobilunity",
+    "description": " Mobilunity is a provider of dedicated development teams aiming to bring European corporate culture to the Ukrainian IT-labor market. Throughout all the...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 35,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8313749",
+    "title": "  FullStack Developer (React+Python)\n ",
+    "company": "DataArt",
+    "description": "We're looking for a specialist to join a team that is building a SaaS platform. The client is a NY-based company that provides solutions tailored...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 36,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8119670",
+    "title": "  Senior Python Developer\n ",
+    "company": "DataArt",
+    "description": " DataArt is a global software engineering firm. With over 20 years of experience, teams of highly-trained engineers around the world, deep industry sector...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 37,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8313737",
+    "title": "  Python Developer, Media Conglomerate\n ",
+    "company": "DataArt",
+    "description": " DataArt is involved in the software transformation of key business areas of a US -based global music conglomerate.The solutions we’re currently developing...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 38,
+  "fields": {
+    "url": "https://rabota.ua/company1884618/vacancy8202453",
+    "title": "  Machine Learning Engineer (Gradescope)\n ",
+    "company": "Turnitin",
+    "description": " At Turnitin, our mission is to ensure academic integrity, help students get informative feedback and surface insights about teaching and learning. Our...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 39,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8359162",
+    "title": "  Intersystems Cache Developer\n ",
+    "company": "DataArt",
+    "description": "Our client is a large UK investment management company. The team is working closely with business users to support their business processes and...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 40,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy7798883",
+    "title": "  Cloud Engineer, Online Retailer\n ",
+    "company": "DataArt",
+    "description": "Our client is one of the biggest online retailers worldwide with yearly revenue of ?1 billion. We have a long history of relationships and over...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 41,
+  "fields": {
+    "url": "https://rabota.ua/company209907/vacancy8332301",
+    "title": "  Lead Big Data Engineer for Ciklum Digital\n ",
+    "company": "Ciklum",
+    "description": " On behalf of Data & Analytics, Ciklum is looking for a Lead Big Data Engineer to join the UA team on a full-time basis.You will join a highly motivated...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 42,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy7692273",
+    "title": "  Senior Python Developer, Financial Software Solutions\n ",
+    "company": "DataArt",
+    "description": " Our client is a New York City-based FinTech startup that is building a trading and risk software platform for the investment banking industry to sell as...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 43,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy7931161",
+    "title": "  Tech Lead with Python Experience, Financial Software Solutions\n ",
+    "company": "DataArt",
+    "description": "THE POSITION OFFERS REMOTE WORK OPPORTUNITY.Our client is a New York City-based FinTech Company that is building a trading and risk software...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 44,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8210396",
+    "title": "  FullStack (Python+JavaScript) Developer, Financial Software Solutions\n ",
+    "company": "DataArt",
+    "description": " THE POSITION OFFERS REMOTE WORK OPPORTUNITY.Our client is a New York City-based FinTech company that is building a software platform for the investment...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 45,
+  "fields": {
+    "url": "https://rabota.ua/company3171501/vacancy8371297",
+    "title": "  Middle Python developer (remote)\n ",
+    "company": "Mindy Teams",
+    "description": " Mindy Teams (www.mindy-teams.com) is a part of international brand Mindy Support (BPO market leader in Ukraine, Artificial intelligence and Machine learning)...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 46,
+  "fields": {
+    "url": "https://rabota.ua/company825/vacancy8332143",
+    "title": "  Senior Python Developer With AWS (Automotive Domain)\n ",
+    "company": "Sigma Software",
+    "description": " We welcome an experienced, energetic, and enthusiastic Python Developer who is ready to work on the automotive project and do challenging tasks. If you...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 47,
+  "fields": {
+    "url": "https://rabota.ua/company9889729/vacancy8371290",
+    "title": "  Python разработчик\n ",
+    "company": "Homfi",
+    "description": " Python разработчик Необходимые навыки:\n?1+ года опыта в разработке на python;\nОпыт работы с БД;\nОпыт работы с Git;\nОпыт работы с API сторонних сервисов\nАналитическое...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 48,
+  "fields": {
+    "url": "https://rabota.ua/company6209095/vacancy8327768",
+    "title": "  Senior Python Engineer\n ",
+    "company": "Intel 471",
+    "description": " Who Intel 471 are:The mission of Intel 471 is to protect your organization, your products, your assets and your people. We are building an actor-focused...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 49,
+  "fields": {
+    "url": "https://rabota.ua/company6209095/vacancy8327766",
+    "title": "  Middle Python Engineer\n ",
+    "company": "Intel 471",
+    "description": " Who Intel 471 are:The mission of Intel 471 is to protect your organization, your products, your assets and your people. We are building an actor-focused...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 50,
+  "fields": {
+    "url": "https://rabota.ua/company460820/vacancy8371248",
+    "title": "  Senior Python/Django Developer\n ",
+    "company": "Skelia Ukraine",
+    "description": " We have a tasty opening for a skilled expert! Our client is a Los Angeles based telecommunications service provider. This is a great chance to work with...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 51,
+  "fields": {
+    "url": "https://rabota.ua/company6076366/vacancy8337868",
+    "title": "  Middle Python developer\n ",
+    "company": "4bill.io",
+    "description": " Группа компаний, оперирующая в сфере e-commerce, транзакционного бизнеса и финансовых сервисов приглашает присоединиться в ряды своей команды Python developerОсновные...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 52,
+  "fields": {
+    "url": "https://rabota.ua/company472186/vacancy8234057",
+    "title": "  Python-developer\n ",
+    "company": "ПроФИКС",
+    "description": " Python-developerWhat you will do if you work in our Team:Development of applications with low latency, high availability and performance (low-latency,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 53,
+  "fields": {
+    "url": "https://rabota.ua/company1100697/vacancy8324146",
+    "title": "  Python Developer\n ",
+    "company": "Yael Acceptic",
+    "description": " We invite a self-motivated Python developer who is open to new opportunities and solutions to join a growing project that helps farming owners in their...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 54,
+  "fields": {
+    "url": "https://rabota.ua/company1060258/vacancy8359791",
+    "title": "  Machine Learning Engineer\n ",
+    "company": "Trust Sourcing",
+    "description": " Trust Sourcing is looking for a Machine Learning Engineer to be part of our friendly team.Skills, Experience and Personality:- 2+ years working in a commercial...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-03"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 55,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4185403/",
+    "title": "\nPython Software Engineer\n",
+    "company": "Lalafo",
+    "description": "\n            Полная занятость. Опыт работы от 1 года. Высшее образование.\n                            About the project: C2C trading platform (classified) operating in the markets of Azerbaijan, Kyrgyzstan,…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 56,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4204410/",
+    "title": "\nПреподаватель курса \"Программирование на Python\" для детей 10-15 лет\n",
+    "company": "Junior IT, школа программирования для детей",
+    "description": "\n            Полная занятость, неполная занятость, удаленная работа, готовы взять студента.\n                            Junior IT — школа программирования для детей — международное образовательное заведение для детей 8 15…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 57,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4192967/",
+    "title": "\nPython/Django Full Stack Developer\n",
+    "company": "Hicell",
+    "description": "\n            Полная занятость, удаленная работа, готовы взять человека с инвалидностью. Опыт работы от 2 лет.\n                            Мы — Hicell, молодая, но активно развивающаяся компания, в области телекоммуникаций. Мы создаем платформу…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 58,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4007366/",
+    "title": "\nJunior fullstack developer (Python, JS)\n",
+    "company": "Вэллфин",
+    "description": "\n            Полная занятость, готовы взять студента.\n                            Вимоги:   Освіта — математика, комп’ютерна інженерія   Python 3 — обов’язково. Вітається досвід написання…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 59,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3993664/",
+    "title": "\nAutomation QA Engineer (Python, 9025)\n",
+    "company": "Infopulse",
+    "description": "\n            Полная занятость, удаленная работа. Опыт работы от 2 лет. Высшее образование.\n                            Infopulse welcomes talented professionals to join our project and to work full time as a Test Automation…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 60,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4202628/",
+    "title": "\nMiddle Python developer\n",
+    "company": "Involve",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет.\n                            О проекте: разработка IT решений в области медицины используя опыт и навыки частного здравоохранения:…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 61,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3979301/",
+    "title": "\nJunior Python Developer\n",
+    "company": "Компания скрыта",
+    "description": "\n            Полная занятость, неполная занятость, удаленная работа. Опыт работы от 1 года. Высшее образование.\n                            We are looking for a Python Django developer with 1 2 years of commercial experience in Django to extend…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 62,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4202506/",
+    "title": "\nPython developer\n",
+    "company": "Smart Sender",
+    "description": "\n            Полная занятость. Опыт работы от 1 года.\n                            Вимоги:    Хорошие знание Python   Опыт работы с машинным обучением, тренировкой моделей.   Большим плюсом…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 63,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4200170/",
+    "title": "\nOdoo (Python) Developer\n",
+    "company": "CR&D",
+    "description": "\n            Полная занятость, неполная занятость, удаленная работа. Опыт работы от 1 года.\n                            Ми шукаємо ініціативних та драйвових розробників Python. В ідеалі з досвідом комерційної розробки Odoo…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 64,
+  "fields": {
+    "url": "https://rabota.ua/company966/vacancy8380007",
+    "title": "  Python ML Engineer\n ",
+    "company": "robota.ua",
+    "description": " Привет, мы в robota.ua каждый день стараемся помочь работодателям найти лучших членов команды, а людям ищущим работу - место, где им будет кайфовее всего....\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 65,
+  "fields": {
+    "url": "https://rabota.ua/company788/vacancy8206553",
+    "title": "  Automation Test Engineer (Python) #9025\n ",
+    "company": "Infopulse / Инфопульс",
+    "description": " Infopulse welcomes talented professionals to join our project and to work full time as a Test Automation Engineer at one of our Ukrainian offices: Kiyv,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 66,
+  "fields": {
+    "url": "https://rabota.ua/company6532981/vacancy8363694",
+    "title": "  Middle Python developer\n ",
+    "company": "Involve",
+    "description": " О проекте:разработка IT решений в области медицины используя опыт и навыки частного здравоохранения: проекты телемедицины, внедрение и запуск технологический...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 67,
+  "fields": {
+    "url": "https://rabota.ua/company9144934/vacancy8248597",
+    "title": "  Senior Python developer to meditech company\n ",
+    "company": "healthPrecision",
+    "description": " Необходимые навыки• At least 5 years of programming experience, 3 of them in Python 3.x using OOP• spaCy, Flask, PyTest, asyncio experience• Experience...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 68,
+  "fields": {
+    "url": "https://rabota.ua/company2010137/vacancy8367448",
+    "title": "  Full-Stack Python Developer\n ",
+    "company": "Beetroot ",
+    "description": " Our client is an Israeli company that builds an email signature solution to enable its users to utilize their emails in a more productive and engaging...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 69,
+  "fields": {
+    "url": "https://rabota.ua/company825/vacancy8328197",
+    "title": "  Senior Python Developer With AWS (Automotive Domain)\n ",
+    "company": "Sigma Software",
+    "description": " We welcome an experienced, energetic, and enthusiastic Python Developer who is ready to work on the automotive project and do challenging tasks. If you...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 70,
+  "fields": {
+    "url": "https://rabota.ua/company923/vacancy8379115",
+    "title": "  Data Scientist\n ",
+    "company": "Fozzy Group / Фоззи",
+    "description": " Обязанности:запрос, подготовка и анализ данныхпостроение и совершенствование моделей данныхеженедельный анализ инициатив до и после их внедрениясинтез...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 71,
+  "fields": {
+    "url": "https://rabota.ua/company1074/vacancy8379082",
+    "title": "  Senior Python Engineer\n ",
+    "company": "EPAM / Epam Systems",
+    "description": " Today we are a global team of technologists and thinkers, who help transform the world with the power of software, enabling our customers to be competitive...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 72,
+  "fields": {
+    "url": "https://rabota.ua/company806/vacancy8061430",
+    "title": "  Data Scientist\n ",
+    "company": "Vodafone Україна ",
+    "description": " Vodafone Україна - компанія світового рівня, що займає провідні позиції у сфері технологій та телекомунікацій, впроваджує інновації у всіх напрямках діяльності....\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 73,
+  "fields": {
+    "url": "https://rabota.ua/company39974/vacancy8355950",
+    "title": "  Аналітик (Python, SQL)\n ",
+    "company": "ФОРА, ООО",
+    "description": " Давайте знайомитись!Ми успішно розвиваємось з 2002 року.Драйв — наш стиль життя, який народжує натхнення.Ми вдосконалюємось та вдосконалюємо, адже якість...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 74,
+  "fields": {
+    "url": "https://rabota.ua/company133752/vacancy8378299",
+    "title": "  Build Engineer\n ",
+    "company": "Wargaming",
+    "description": "Wargaming development studio based in Kyiv is looking to hire a Build Engineer to work on a new project.What you will do:Develop and support...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 75,
+  "fields": {
+    "url": "https://rabota.ua/company477532/vacancy8378286",
+    "title": "  Middle/Senior PostgreSQL Developer\n ",
+    "company": "Нова Пошта, ТОВ / Новая Почта",
+    "description": "Компанія«Нова Пошта» - лідер в сфері експрес-доставки по Україні, в зв'язку з розширенням штату, запрошує: Middle/Senior PostgreSQL Developer.Необхідні навики:Професійний...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 76,
+  "fields": {
+    "url": "https://rabota.ua/company923/vacancy7950192",
+    "title": "  Data Engineer\n ",
+    "company": "Fozzy Group / Фоззи",
+    "description": "Требования: 5+ лет инженерного опыта2+ лет работы дата-инженеромЗнания SQL (Любой диалект)Python3, asyncio, Apache AirflowИнженерное мировоззрение,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 77,
+  "fields": {
+    "url": "https://rabota.ua/company598120/vacancy8354710",
+    "title": "  Middle Python Engineer #8296\n ",
+    "company": "Lohika",
+    "description": " PURPOSE OF THE JOBOur customer takes the leading position in advanced data analytics and engineering expertise. There are analytical projects that are...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 78,
+  "fields": {
+    "url": "https://rabota.ua/company583287/vacancy8311319",
+    "title": "  Senior Python Dev (BigData)\n ",
+    "company": "Альфа-Банк",
+    "description": " Шукаємо людину, яка буде:будувати моделі даних в Cloudera Data Hab (CDH),Cloudera Data Platform (CDP) для аналітиків даних;аналізувати потреби замовника;розробляти...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 79,
+  "fields": {
+    "url": "https://rabota.ua/company1884618/vacancy8216656",
+    "title": "  Machine Learning Software Engineer\n ",
+    "company": "Turnitin",
+    "description": " Company Description:At Turnitin, our mission is to ensure academic integrity, help students get informative feedback and surface insights about teaching...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 80,
+  "fields": {
+    "url": "https://rabota.ua/company9632311/vacancy8051734",
+    "title": "  Junior Python Developer\n ",
+    "company": "DigitalBrother",
+    "description": " We are looking for a Python Django developer with 1-2 years of commercial experience in Django to extend our team. Note: applications with no 1 year of...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 81,
+  "fields": {
+    "url": "https://rabota.ua/company9191176/vacancy8376425",
+    "title": "  Data analyst\n ",
+    "company": "Дія",
+    "description": "Привіт. Хто сказав, що дата-аналітики не літають? Оволодівши системним аналізом, складовою IT та математикою, вже неможливо спуститися на землю. Маємо...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 82,
+  "fields": {
+    "url": "https://rabota.ua/company9846162/vacancy8376381",
+    "title": "  QA Automation Engineer\n ",
+    "company": "21 Creative Agency",
+    "description": " We are looking for a Middle Automation QA to join our Kyiv office team.Our domain is Gambling.Responsibilities: Automation of the testing process of the...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 83,
+  "fields": {
+    "url": "https://rabota.ua/company1218975/vacancy8353793",
+    "title": "  IT Support specialist/ Developer\n ",
+    "company": "Samsung Electronics",
+    "description": " Job Summary (position's main function)IT Support Specialist/Software developer is responsible for issue resolution and support of existing web-based/ERP-based...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 84,
+  "fields": {
+    "url": "https://rabota.ua/company7819611/vacancy8015461",
+    "title": "  App Product Analyst\n ",
+    "company": "appflame",
+    "description": " appflame - is a young and fast-growing company. It launches and develops its products in social discovery / social network / dating niches. Our products...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 85,
+  "fields": {
+    "url": "https://rabota.ua/company9195780/vacancy8375976",
+    "title": "  Odoo (Python) Developer\n ",
+    "company": "CR&D",
+    "description": " Ми шукаємо ініціативних та драйвових розробників Python. В ідеалі з досвідом комерційної розробки Odoo. Але якщо ви маєте досвід розробки Python і бажаєте...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 86,
+  "fields": {
+    "url": "https://rabota.ua/company560784/vacancy8353502",
+    "title": "  Главный специалист Отдела развития корпоративной модели данных\n ",
+    "company": "СБЕРБАНК, АО ",
+    "description": " Требования: Высшее IT образование или Экономическая кибернетика.Опыт работы в качестве разработчика баз данных в том числе ETL.Опыт внедрения в области...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 87,
+  "fields": {
+    "url": "https://rabota.ua/company394872/vacancy7856220",
+    "title": "  Python / Data Engineer\n ",
+    "company": "Codeminders",
+    "description": " We are currently seeking a Python / Data Engineer to work in project that design cutting edge AI decision support infrastructure for clinicians to improve...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 88,
+  "fields": {
+    "url": "https://rabota.ua/company1913126/vacancy8375491",
+    "title": "  Python developer, Odoo CRM\n ",
+    "company": "Nakivo, inc",
+    "description": " NAKIVO is one of the fastest-growing virtualization and cloud backup software companies in the industry. Over 10,000 companies across EMEA, Asia, and the...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-05"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 89,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3185639/",
+    "title": "\nMiddle Python, Django Developer\n",
+    "company": "ДФМ Віртуал Сервіс",
+    "description": "\n            Полная занятость, удаленная работа, готовы взять человека с инвалидностью. Опыт работы от 2 лет.\n                            DFM Virtual service LTD, a branch of an important Italian IT Group, according to its company’s growth…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 90,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4179532/",
+    "title": "\nPython developer\n",
+    "company": "Exist.ua",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет. Высшее образование.\n                            EXIST.UA — интернет-магазин по продаже автозапчастей и сервисов, который насчитывает 35 офисов продаж…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 91,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4230714/",
+    "title": "\nJunior Python Developer\n",
+    "company": "The Why Kingz",
+    "description": "\n            Полная занятость. Опыт работы от 1 года. Высшее образование.\n                            Необходимые навыки:    1+ год опыта коммерческой разработки   Опыт работы с GIT, Python, MongoDB, PostgreSQL,…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 92,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4222148/",
+    "title": "\nPython Developer\n",
+    "company": "Компания скрыта",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет.\n                            Требования:  We are looking for an experienced Python software developer to build a API-first financial…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 93,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4229737/",
+    "title": "\nPython, Django Software Engineer\n",
+    "company": "Компания скрыта",
+    "description": "\n            Полная занятость, удаленная работа, готовы взять студента. Опыт работы от 2 лет. Высшее образование.\n                            About usWe’re building a dev team to take our revolutionary app to the next level. You will create a new…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 94,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4067718/",
+    "title": "\nPython Developer\n",
+    "company": "DataArt",
+    "description": "\n            Полная занятость. Опыт работы от 5 лет.\n                            DataArt is a global software engineering firm. With over 20 years of experience, teams of highly-trained…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 95,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4210156/",
+    "title": "\nTech Lead with Python Experience (Financial Software Solutions)\n",
+    "company": "DataArt",
+    "description": "\n            Полная занятость. Опыт работы от 5 лет.\n                            THE POSITION OFFERS REMOTE WORK OPPORTUNITY. Our client is a New York City-based FinTech company that…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 96,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4067760/",
+    "title": "\nPython Trainee\n",
+    "company": "DataArt",
+    "description": "\n            Полная занятость.\n                            DataArt is inviting beginner Python developers to take part in its paid trainee program. The goal is to achieve…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 97,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3985981/",
+    "title": "\nTest Automation Engineer (Python, 9025)\n",
+    "company": "Infopulse",
+    "description": "\n            Полная занятость, удаленная работа. Опыт работы от 2 лет. Высшее образование.\n                            Infopulse welcomes talented professionals to join our project and to work full time as a Test Automation…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 98,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4161247/",
+    "title": "\nPython Developer (Media Conglomerate)\n",
+    "company": "DataArt",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет.\n                            DataArt is involved in the software transformation of key business areas of a US -based global music…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 99,
+  "fields": {
+    "url": "https://rabota.ua/company963199/vacancy8393486",
+    "title": "  Middle DevOps Engineer\n ",
+    "company": "EVO",
+    "description": "Група компаній EVO в пошуку DevOps Engineer’а на новий проект (фінтех).Про команду проекту:Шукаємо ще одного DevOps інженера, який доповнить...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 100,
+  "fields": {
+    "url": "https://rabota.ua/company2671363/vacancy8383677",
+    "title": "  Junior JS Developer\n ",
+    "company": "iHUB",
+    "description": " iHUB - один из лидирующих украинских технологических хабов. Мы объединяем в себе современный коворкинг, лучшие акселерационные программы, организовываем...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 101,
+  "fields": {
+    "url": "https://rabota.ua/company4655208/vacancy8411569",
+    "title": "  Backend (Python) Developer\n ",
+    "company": "Join.To.IT",
+    "description": " Join.To.IT is a place where your technical ideas can be implemented. There are many interesting projects, we are looking for developers seriously and for...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 102,
+  "fields": {
+    "url": "https://rabota.ua/company3308776/vacancy8411547",
+    "title": "  Data analyst\n ",
+    "company": "Artellence",
+    "description": " Технические требования:Математический бэкграунд: ИПСА, Мехмат, Кубик, УКУ, KSE итп.Бизнесовый бэкграунд: экономическое / финансовое образование либо глубокий...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 103,
+  "fields": {
+    "url": "https://rabota.ua/company8713128/vacancy8002448",
+    "title": "  Data Scientist / ML Engineer\n ",
+    "company": "Blackstone System limited",
+    "description": " HI!Werush - outsourcing product company that works in Digital marketing, we deal with creation, development and promotion of our products on Western markets....\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 104,
+  "fields": {
+    "url": "https://rabota.ua/company7132173/vacancy8399238",
+    "title": "  Data Analyst\n ",
+    "company": "VOKI Games",
+    "description": " Мы — VOKI Games, и мы создаём захватывающие мобильные игры, в которые каждый день играют миллионы людей. Наш хит Manor Matters стал одним из лидеров в...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 105,
+  "fields": {
+    "url": "https://rabota.ua/company1020/vacancy8410787",
+    "title": "  Провідний фахівець - аналітик Сектору Data engineering Відділ автоматизації...\n ",
+    "company": "Первый Украинский Международный Банк, АО / ПУМБ",
+    "description": "КВАЛІФІКАЦІЯ ТА ДОСВІД: Необхідні:Вища освіта в сфері обчислювальної техніки  інформаційних систем     Від 2 років роботи в сфері інформаційних...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 106,
+  "fields": {
+    "url": "https://rabota.ua/company9405698/vacancy8399185",
+    "title": "  Junior Python Developer\n ",
+    "company": "The WhyKingz",
+    "description": " Необходимые навыки:1+ год опыта коммерческой разработкиОпыт работы с GIT, Python, MongoDB, PostgreSQL, Redis, Javascript, HTML, CSS, DockerЗнание Linux-подобных...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 107,
+  "fields": {
+    "url": "https://rabota.ua/company8113351/vacancy8410403",
+    "title": "  Data Scientist / Data Analyst\n ",
+    "company": "Cybercube",
+    "description": " О проектеCybercube Business Group Ltd is an online gaming platform for fans of competitive computer game. We are entering the international market and...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 108,
+  "fields": {
+    "url": "https://rabota.ua/company81608/vacancy8387022",
+    "title": "  ML Engineer (NLP)\n ",
+    "company": "ЛІГА, Група компаній",
+    "description": " Компанія Semantrum - це розробник AI -платформи для медіа-моніторингу та репутаційного аналізу. Система збирає та аналізує тексти українською, російською,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 109,
+  "fields": {
+    "url": "https://rabota.ua/company1060352/vacancy8372113",
+    "title": "  Data scientist\n ",
+    "company": "Fozzy Group, Логістика",
+    "description": " Fozzy Group is Ukraine's largest supermarket company and food retail group. We are the leader of the Ukrainian retail market, with more than 700 stores...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 110,
+  "fields": {
+    "url": "https://rabota.ua/company3602223/vacancy8398533",
+    "title": "  Android SDK Engineer\n ",
+    "company": "Work Nest Technologies",
+    "description": " For our Israeli customer we are looking for a motivated and experienced Android SDK Engineer to build our core services and ML infrastructure on edge devices.Our...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 111,
+  "fields": {
+    "url": "https://rabota.ua/company5187766/vacancy7907264",
+    "title": "  Back-End Developer\n ",
+    "company": "JazzServe",
+    "description": " JazzServe is a European company providing corporate software development. We create solid cloud, web and mobile applications. Now we are looking for a...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 112,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8313723",
+    "title": "  Cloud Platform Engineer, Online Retailer\n ",
+    "company": "DataArt",
+    "description": " Our client is one of the biggest online retailers worldwide with yearly revenue of $1 billion. We have a long history of relationships and over the years...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 113,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy7787223",
+    "title": "  Python Trainee Developer\n ",
+    "company": "DataArt",
+    "description": " DataArt is inviting beginner Python developers to take part in its paid trainee program. The goal is to achieve the level of proficiency that will allow...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 114,
+  "fields": {
+    "url": "https://rabota.ua/company6436942/vacancy8408908",
+    "title": "  Junior Full Stack Software Developer\n ",
+    "company": "Speakstarter LP",
+    "description": " Description:Learning a new language at an adult age is often exhausting, stressful, and even frustrating. We’re a team of technologists, designers, and...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 115,
+  "fields": {
+    "url": "https://rabota.ua/company10505343/vacancy8351732",
+    "title": "  Учитель информатики в IT-школу для детей\n ",
+    "company": "Костюк О.Л., ФЛП",
+    "description": " Международная школа специализирующееся на компьютерном образовании. Открыто в 20 странах мира. Программа обучения сертифицировано в Microsoft.Приглашает...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 116,
+  "fields": {
+    "url": "https://rabota.ua/company2972039/vacancy8397049",
+    "title": "  Преподаватель Python\n ",
+    "company": "Шаг, Компьютерная Академия",
+    "description": "В Международной Компьютерной Академии ШАГ, крупнейшем учебном заведении с 105 филиалами в 22 странах мира и самыми современными программами компьютерного...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 117,
+  "fields": {
+    "url": "https://rabota.ua/company9547664/vacancy8408206",
+    "title": "  Middle Python Developer / Middle Программист Python\n ",
+    "company": "Дунаиский, ФЛП",
+    "description": " ИТ компания Secure Crowds ищет опытного разработчика Python (Middle / Strong-Middle Python Developer)Условия работы: полная занятость, удаленно либо в...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 118,
+  "fields": {
+    "url": "https://rabota.ua/company9699968/vacancy8386331",
+    "title": "  Python developer\n ",
+    "company": "Netcraft.Global",
+    "description": " Netcraft.Global это digital агенство. Мы выросли из SEO отдела в успешную компанию и теперь работаем над проектами в высококонкурентных нишах по всему...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 119,
+  "fields": {
+    "url": "https://rabota.ua/company286376/vacancy8359093",
+    "title": "  Middle Python-программист\n ",
+    "company": "EXIST.UA",
+    "description": " EXIST.UA — интернет-магазин по продаже автозапчастей и сервисов, который насчитывает 36 офисов продаж компании во всех регионах страны.Команда EXIST.UA...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 120,
+  "fields": {
+    "url": "https://rabota.ua/company1699495/vacancy7625743",
+    "title": "  Game Economist (Game development)\n ",
+    "company": "WhaleApp",
+    "description": " WhaleApp - международная Game development компания, которая охватывает 7 студий в разных уголках мира. WhaleApp верит в многообразие людей и ищет пути...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 121,
+  "fields": {
+    "url": "https://rabota.ua/company3144879/vacancy8324932",
+    "title": "  Data Scientist\n ",
+    "company": "Вес Медіа, ТОВ",
+    "description": " В связи с активным развитием мы ищем Data Scientist, желающего расти и развиваться вместе с нами!В зону ответственности будет входить:Осуществить переходы...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 122,
+  "fields": {
+    "url": "https://rabota.ua/company10038019/vacancy8406832",
+    "title": "  Senior Back End Engineer (Python)\n ",
+    "company": "Пикулина Е.А., ФЛП",
+    "description": " Portside is a subscription platform for business aviation. We enable the sharing of business aircraft data, reporting and analytics among aircraft management...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 123,
+  "fields": {
+    "url": "https://rabota.ua/company1062358/vacancy8346484",
+    "title": "  Data analyst\n ",
+    "company": "Kreston GCG",
+    "description": " Kreston GCG представляє в Україні міжнародну аудиторську мережу Kreston International, одну з провідних світових організацій в галузі аудиторських, оцінювальних...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 124,
+  "fields": {
+    "url": "https://rabota.ua/company2263870/vacancy8308299",
+    "title": "  Middle Python developer\n ",
+    "company": "Укренерго, НЕК ",
+    "description": " Національна енергетична компанія «Укренерго» запрошує прийняти участь в конкурсі на заміщення вакантної посади Middle Python developerМи пропонуємо стати...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 125,
+  "fields": {
+    "url": "https://rabota.ua/company2263870/vacancy8308231",
+    "title": "  Python Developer\n ",
+    "company": "Укренерго, НЕК ",
+    "description": " Національна енергетична компанія «Укренерго» запрошує прийняти участь в конкурсі на заміщення вакантної посади Python DeveloperМи пропонуємо стати частиною...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-25"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 126,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4048942/",
+    "title": "\nPython Developer\n",
+    "company": "LeverX Group",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет. Высшее образование.\n                            LeverX Group = LeverX + EmerlineAbout the company: We analyze, design, and implement solutions of any…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 127,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4234499/",
+    "title": "\nПреподаватель курсов по Python\n",
+    "company": "CyberBionic Systematics",
+    "description": "\n            Неполная занятость, удаленная работа, готовы взять студента. Опыт работы от 1 года.\n                            Преподаватель курсов по Python Учебный центр CyberBionic Systematics ищет тренера по Python для обучения…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 128,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4152163/",
+    "title": "\nSenior Python Developer (BigData)\n",
+    "company": "Альфа-Банк Україна",
+    "description": "\n            Полная занятость. Опыт работы от 2 лет.\n                            Шукаємо людину, яка буде:   будувати моделі даних в Cloudera Data Hab (CDH),Cloudera Data Platform (CDP)…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 129,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4232913/",
+    "title": "\nPython developer\n",
+    "company": "Stencil Agency",
+    "description": "\n            Полная занятость, неполная занятость, удаленная работа. Опыт работы от 2 лет.\n                            stencil.agency looking for a Python developer who wants to join a team of professionals to participate…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 130,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/3457091/",
+    "title": "\nFull stack програміст (Python, Django)\n",
+    "company": "E-Republic Tech NGO",
+    "description": "\n            Удаленная работа, готовы взять студента, готовы взять человека с инвалидностью. Опыт работы от 1 года.\n                            Шукаємо технологічних патріотів! Наша громадська організація «Електронна республіка» — лідер України…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 131,
+  "fields": {
+    "url": "https://www.work.ua/ru/jobs/4232565/",
+    "title": "\nPython Software Engineer\n",
+    "company": "Artellence",
+    "description": "\n            Полная занятость, удаленная работа, готовы взять студента. Опыт работы от 1 года.\n                            Технические требования:   1+ год опыта коммерческой разработки   Опыт работы с Python gRPC, multiprocessing,…⁠\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 132,
+  "fields": {
+    "url": "https://rabota.ua/company923/vacancy8403823",
+    "title": "  Junior Data Scientist\n ",
+    "company": "Fozzy Group / Фоззи",
+    "description": " Як Junior Data Scientist групи Demand Planning and Inventory Management, ви приєднаєтесь до команди Лабораторії Штучного Інтелекту та Інновацій та будете...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 133,
+  "fields": {
+    "url": "https://rabota.ua/company1974024/vacancy8415201",
+    "title": "  Data Analyst (financial background)\n ",
+    "company": "Parimatch Tech",
+    "description": " We are a highly successful Company with great ambitions. We operate on a very competitive market so every day we are looking for opportunities to be better....\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 134,
+  "fields": {
+    "url": "https://rabota.ua/company203681/vacancy8191855",
+    "title": "  Data Scientist\n ",
+    "company": "ПриватБанк",
+    "description": " ПриватБанк - є найбільшим банком України та одним з найбільш інноваційних банків світу. Займає лідуючі позиції за всіма фінансовими показниками в галузі...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 135,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8380883",
+    "title": "  Senior Information Security Engineer, Transport Booking System\n ",
+    "company": "DataArt",
+    "description": "The client creates technological solutions for the land passenger transport market. The company’s main development center is located in Berlin,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 136,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy7931153",
+    "title": "  Senior BigData Engineer, Financial Software Solutions\n ",
+    "company": "DataArt",
+    "description": " Our client is a New York City-based FinTech Company that is building a trading and risk software platform for the investment banking industry.The BigData...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 137,
+  "fields": {
+    "url": "https://rabota.ua/company277662/vacancy8380618",
+    "title": "  AI/ML Developer\n ",
+    "company": "DataArt",
+    "description": " DataArt is engaged in IT, AI/ML, and data consulting and software development. Since 1997, we have been designing, developing, modernizing, and supporting...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 138,
+  "fields": {
+    "url": "https://rabota.ua/company560784/vacancy8391715",
+    "title": "  Главный специалист отдела искусственного интеллекта\n ",
+    "company": "СБЕРБАНК, АО ",
+    "description": " Требования:Высшее техническое образование.Опыт работы от 1 года в сфере DevOps/MLOps.Опыт в data-driven IT проектах, поддержку и развитие DevOps инфраструктуры,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 139,
+  "fields": {
+    "url": "https://rabota.ua/company10691544/vacancy8414779",
+    "title": "  Junior Quantitative Developer\n ",
+    "company": "DF Trading",
+    "description": "DF Trading is looking for a Junior Quantitative Developer, capable of developing complex systems in Python and maintaining codebase.Responsibilities...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 140,
+  "fields": {
+    "url": "https://rabota.ua/company3006217/vacancy8322440",
+    "title": "  Python developer (Middle)\n ",
+    "company": "WEZOM, IT - компания",
+    "description": "Wezom group — это семья, которая состоит из IT компании «Wezom», агентства интернет — маркетинга «Elit — Web» и web агентства...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 141,
+  "fields": {
+    "url": "https://rabota.ua/company1118684/vacancy8414712",
+    "title": "  Phython developer (middle)\n ",
+    "company": "DATAS TECHNOLOGY",
+    "description": " REQUIREMENTS:· 3+ years of hands-on development experience· Experience developing data-oriented products using Python· Experience in data processing FW...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 142,
+  "fields": {
+    "url": "https://rabota.ua/company2870723/vacancy8414702",
+    "title": "  Преподаватель курсов по Python\n ",
+    "company": "CyberBionic Systematics",
+    "description": " Преподаватель курсов по Python Учебный центр CyberBionic Systematics ищет тренера по Python для обучения начинающих и опытных разработчиков, в том числе...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 143,
+  "fields": {
+    "url": "https://rabota.ua/company10660164/vacancy8403089",
+    "title": "  Big Data Engineer\n ",
+    "company": "FirstFive",
+    "description": " Who We Are:FirstFive is a dedicated provider of IT services closely structured to provide results and solutions for use in a variety of businesses and...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 144,
+  "fields": {
+    "url": "https://rabota.ua/company10660164/vacancy8403115",
+    "title": "  Senior Python Developer\n ",
+    "company": "FirstFive",
+    "description": " Who We Are:FirstFive is a dedicated provider of IT services closely structured to provide results and solutions for use in a variety of businesses and...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 145,
+  "fields": {
+    "url": "https://rabota.ua/company10660164/vacancy8403041",
+    "title": "  Machine Learning DevOps Expert\n ",
+    "company": "FirstFive",
+    "description": " Currently, we`re looking for a Machine Learning DevOps Expert to join our team, who will help us work on solutions and implement leading technologies that...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 146,
+  "fields": {
+    "url": "https://rabota.ua/company10660164/vacancy8402982",
+    "title": "  DevOps Engineer\n ",
+    "company": "FirstFive",
+    "description": "We are looking for a DevOps Engineer with at least 3 years experience Requirements: Experience with:  Kubernetes,   Terraform,   Prometheus,  ...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 147,
+  "fields": {
+    "url": "https://rabota.ua/company5209475/vacancy8380157",
+    "title": "  Data Scientist\n ",
+    "company": "Consulting for retail",
+    "description": " C4R - международная консалтинговая компания в области разработки и внедрения инновационных решений для ритейла. Комбинируя стратегии, технологии, креативность...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 148,
+  "fields": {
+    "url": "https://rabota.ua/company598120/vacancy8414339",
+    "title": "  Senior Python Engineer #8698\n ",
+    "company": "Lohika",
+    "description": " Purpose of the job:We are looking for a senior engineer experienced in Python development and related technologies to be a part of a cross-functional engineering...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 149,
+  "fields": {
+    "url": "https://rabota.ua/company6949158/vacancy8057682",
+    "title": "  Game Mathematician\n ",
+    "company": "Playson",
+    "description": " Playson is a leading online gaming supplier with a worldwide recognition which was founded in 2012. We offer complete gaming solutions based on the latest...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 150,
+  "fields": {
+    "url": "https://rabota.ua/company7563866/vacancy8402472",
+    "title": "  Middle Automation QA Engineer (Python)\n ",
+    "company": "НІК-ЕЛЕКТРОНІКА, ТОВ",
+    "description": " Якщо Вам цікаво отримувати нові знання і Вас приваблюють складні завдання, читайте докладніше:Наші побажання до роботи:Аналіз нової функціональності, створення...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 151,
+  "fields": {
+    "url": "https://rabota.ua/company3640690/vacancy8413772",
+    "title": "  Python back-end mid/senior developer\n ",
+    "company": "InCust",
+    "description": " Есть сложная собственная платформа inCust: система управления жизненным циклом покупателя.Это многоуровнвая платформа с рзными внутренними и внешними API.Это...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 152,
+  "fields": {
+    "url": "https://rabota.ua/company923/vacancy8367275",
+    "title": "  Junior Data Scientist\n ",
+    "company": "Fozzy Group / Фоззи",
+    "description": "Як Junior Data Scientist групи Demand Planning and Inventory Management, ви приєднаєтесь до команди Лабораторії Штучного Інтелекту та Інновацій...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 153,
+  "fields": {
+    "url": "https://rabota.ua/company10302578/vacancy8413557",
+    "title": "  Full stack developer\n ",
+    "company": "Довіра і Гарантія",
+    "description": " Стабильная и продвинутая компания, которая занимает ведущие позиции по всем показателям в данной области, в связи с расширением штата, приглашает вас на...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 154,
+  "fields": {
+    "url": "https://rabota.ua/company5290315/vacancy8369825",
+    "title": "  Python разработчик\n ",
+    "company": "ART Consulting",
+    "description": " Приглашаем в нашу команду Python- разработчика для работы на крупном финансовом проекте по построению DWH Требованияопыт разработки на Python;опыт работы...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 155,
+  "fields": {
+    "url": "https://rabota.ua/company2010137/vacancy8324835",
+    "title": "  Senior Python Developer\n ",
+    "company": "Beetroot ",
+    "description": " Our client is a genomics company with a focus on interpreting genetic diseases. Their product is a next generation genomics intelligence platform, incorporating...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 156,
+  "fields": {
+    "url": "https://rabota.ua/company1590638/vacancy6905644",
+    "title": "  Data scientist\n ",
+    "company": "EvoPlay",
+    "description": " Требования:Опыт работы с Python (Pandas, NumPy,bs4,sklearn,scipy...)Знание основных методов машинного обучения (regression, clustering, decision trees,...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 157,
+  "fields": {
+    "url": "https://rabota.ua/company1936168/vacancy8389879",
+    "title": "  Data Scientist/ML Developer\n ",
+    "company": "SupportYourApp",
+    "description": " SupportYourApp is an outsourced customer service company proudly established and operating in Kyiv, Ukraine. We have a decade of expertise in delivering...\n",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-02-26"
+  }
+},
+{
+  "model": "scraping.error",
+  "pk": 1,
+  "fields": {
+    "timestamp": "2021-02-16",
+    "data": {
+      "user_data": [],
+      "errors": [
+        {
+          "url": "https://www.work.ua/ru/jobs-kyiv-python/",
+          "title": "ошибка"
+        }
+      ]
+    }
+  }
+},
+{
+  "model": "scraping.error",
+  "pk": 2,
+  "fields": {
+    "timestamp": "2021-02-26",
+    "data": {
+      "user_data": [
+        {
+          "city": "Осло",
+          "language": "Scala",
+          "email": "jijiji@ji.ru"
+        }
+      ],
+      "errors": [
+        {
+          "url": "https://www.work.ua/ru/jobs-kyiv-python/",
+          "title": "ошибка"
+        }
+      ]
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 1,
+  "fields": {
+    "city": 1,
+    "language": 1,
+    "url_data": {
+      "work": "https://www.work.ua/ru/jobs-kyiv-python/",
+      "rabota": "https://rabota.ua/zapros/python/%D0%BA%D0%B8%D0%B5%D0%B2"
+    }
+  }
+},
+{
+  "model": "accounts.myuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$qW1eUOPAd5HV$vIgMJm5PI2kCQI3qn2xjeUoWhfxhndNpJMn5ikZpFnc=",
+    "last_login": "2021-03-01T14:51:08.586Z",
+    "email": "jirotakeo@gmail.com",
+    "is_active": true,
+    "is_admin": true,
+    "city": 1,
+    "language": 1,
+    "send_email": true
+  }
+},
+{
+  "model": "accounts.myuser",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$Uz1U1EsVPdYI$3XwBG/bOWipvS4GOH3k+7IQ2k1f0Jxog6S7WXS1mdBo=",
+    "last_login": "2021-02-06T11:55:54.030Z",
+    "email": "jirotakeo@yandex.ru",
+    "is_active": true,
+    "is_admin": false,
+    "city": 1,
+    "language": 1,
+    "send_email": true
+  }
+}
+]
