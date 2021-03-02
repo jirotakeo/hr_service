@@ -52,7 +52,9 @@ settings = get_settings()
 url_list = get_urls(settings)
 
 loop = asyncio.get_event_loop()
-tmp_tasks = [(func, data['url_data'][key], data['city'], data['language']) for data in url_list for func, key in parsers]
+tmp_tasks = [(func, data['url_data'][key], data['city'], data['language'])
+             for data in url_list
+             for func, key in parsers]
 tasks = asyncio.wait([loop.create_task(main(f)) for f in tmp_tasks])
 '''
 for data in url_list:
